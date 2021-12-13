@@ -1,0 +1,86 @@
+nav {
+    text-align: center;
+    color: darkblue;
+}
+
+div.b {
+    word-wrap: normal;
+    color: black;
+}
+
+div.a {
+    word-wrap: normal;
+    color: black;
+}
+
+h1 {
+    color: darkblue;
+    font-family: verdana, arial, sans-serif;
+    text-align: center;
+    font-size:24px;
+}
+
+h2 {
+    color: black;
+    font-family: verdana, arial, sans-serif;
+    text-align: center;
+    font-size:24px;
+}
+
+p {
+    color: black;
+    font-family: verdana, arial, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+body {
+    background-color: whitesmoke;
+    font-family: verdana, arial, sans-serif;
+}
+
+header{
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+footer {
+    text-align: center;
+    font-size: 14px;
+    font-family: Verdana, Arial, sans-serif;
+    color: darkblue;
+}
+
+#myHeader {
+    background-color:lightgray;
+    color: darkblue;
+    padding: 35px;
+    text-align: center;
+}
+
+.contact {
+    background-color: lightgray;
+    color:black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+table, th, td {
+    border: 2px solid black;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .centerimg {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+  }
